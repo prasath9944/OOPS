@@ -1,0 +1,141 @@
+
+
+Assignment-1
+
+
+#
+# s = "this is My First Python programming class and i am learNING python string and its function"
+# 1 . Try to extract data from index one to index 300 with a jump of 3
+# 2. Try to reverse a string without using reverse function
+# 3. Try to split a string after conversion of entire string in uppercase
+# 4. try to convert the whole string into lower case
+# 5 . Try to capitalize the whole string
+# 6 . Write a diference between isalnum() and isalpha()
+# 7. Try to give an example of expand tab
+# 8 . Give an example of strip , lstrip and rstrip
+# 9.  Replace a string charecter by another charector by taking your own example
+# "sudhanshu"
+# 10 . Try  to give a defination of string center function with and exmple
+# 11 . Write your own definition of compiler and interpretor without copy paste form internet in your own language
+# 12 . Python is a interpreted of compiled language give a clear ans with your understanding
+# 13 . Try to write a usecase of python with your understanding .
+
+
+Assignment-2
+
+
+
+# q1 :
+# ineruon
+# ineruon ineruon
+# ineruon ineruon ineruon
+# ineruon ineruon ineruon ineruon
+#
+# q2 -
+#
+#           ineruon
+#     ineruon      ineruon
+# ineruon		ineruon 	ineruon
+# 	ineruon		 ineruon
+# 		  ineruon
+#
+# l = [[1,2,3,4] , (2,3,4,5,6) , (3,4,5,6,7) , set([23,4,5,45,4,4,5,45,45,4,5]) , {'k1' :"sudh" , "k2" : "ineuron","k3":
+#             "kumar" , 3:6 , 7:8} , ["ineuron" , "data science "]]
+#
+# q3 : Try to extract all the list entity
+# q4 : Try to extract all the dict enteties
+# q5 : Try to extract all the tuples entities
+# q6 : Try to extract all the numerical data it may b a part of dict key and values
+# q7 : Try to give summation of all the numeric data
+# q8 : Try to filter out all the odd values out all numeric data which is a part of a list
+# q9 : Try to extract "ineruon" out of this data
+# q10 : Try to find out a number of occurances of all the data
+# q11 : Try to find out number of keys in dict element
+# q12 : Try to filter out all the string data
+# q13 : Try to Find  out alphanum in data
+# q14 : Try to find out multiplication of all numeric value in the individual collection inside dataset
+
+
+
+
+
+Assignment-3
+
+
+q1 : Try to print this by using while loop
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * * * *
+* * * * * * *
+* * * * * * * *
+* * * * * * * * *
+
+q2 : try to print below by using while loop :
+
+A
+B H
+C I N
+D J o S
+E K p T W
+F L Q U X z
+G M R V Y
+
+q3 : Try to print all the number divisible by 3 in between a range of 40 - 400
+
+q4 : Try to filter out all the vowels form below text by using while loop :
+ """Python is a high-level, interpreted, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.[32]
+
+Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a "batteries included" language due to its comprehensive standard library.[33][34]
+
+Guido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python 0.9.0.[35] Python 2.0 was released in 2000 and introduced new features such as list comprehensions, cycle-detecting garbage collection, reference counting, and Unicode support. Python 3.0, released in 2008, was a major revision that is not completely backward-compatible with earlier versions. Python 2 was discontinued with version 2.7.18 in 2020.[36]
+
+Python consistently ranks as one of the most popular programming languagesc"""
+
+
+q5 : Try to generate all the even number between 1- 1000
+
+q6 : Define a function for all the above problem statememnt  .
+
+q7 : write a code to get a time of your system
+
+q8 : Write a code to fetch date form your system
+
+q9 : Write a code to send a mail to your friend
+
+q10 : write a code to trigger alarm for you at scheduled time
+
+q11 : write a code to check ip address of your system
+
+q12 : Write a code to check a perticular installation in your system
+
+q13 : Write a code to convert any text in to voice
+
+q14 : you have to write a fun which will take string and return a len of
+it without using a inbuilt fun len
+
+q15 :write a fun which will be able to print an index of all premitive element which you will pass
+
+q16 : Write a fun which will take input as a dict and give me out as a list of all the values
+even in case of 2 level nesting it should work .
+
+q17 : write a function whihc will take multiple list as a input and give me concatnation of all the element as
+and output
+
+q18 : Write a function which will whould return list of all the file name from a directory .
+
+q19 : write a function whihc will be able to read a image file and show it to you .
+
+q20 : write a function by which you will be able to append two PDF files .
+
+q21 : write a function which can help you to filter only word file from a directory .
+
+q22 : write a function which can read video file and play for you .
+
+q23 : write a function which will be able to shutdonw your system .
+
+q24 : Write a function which will whould return list of all the file name from a directory .
+
+q25 : write a function whihc will be able to access your mail .

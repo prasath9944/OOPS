@@ -1,0 +1,15 @@
+2022-07-20 00:39:14,090 root INFO The string %s is converted into lower case
+2022-07-20 00:39:14,090 root ERROR 'str' object has no attribute 'data'
+2022-07-20 00:39:34,422 root INFO The string %s is converted into lower case
+2022-07-20 00:39:34,422 root INFO the lower case string is this is my first python programming class and i am learning python string and its function
+2022-07-20 00:40:02,277 root INFO The string %s is converted into lower case
+2022-07-20 00:40:02,277 root INFO the lower case string is "this is my first python programming class and i am learning python string and its function"
+2022-07-20 00:46:17,817 root INFO the string %s is Captilized
+2022-07-20 00:46:17,817 root INFO The string %s is the Captilized version
+2022-07-20 00:46:59,005 root INFO The string %s is expanded based on the tabs sequence characters
+2022-07-20 00:46:59,005 root INFO The expanded string is Hello   How     Are     You
+2022-07-20 00:57:27,750 root INFO The string            Hello	How	Are	You          is striped
+2022-07-20 00:57:27,750 root INFO The string of left strip Hello	How	Are	You          and right strip is            Hello	How	Are	You and stripped string is Hello	How	Are	You
+2022-07-20 00:58:26,504 root INFO The string Python is replaced with Data Science 
+2022-07-20 00:59:06,024 root INFO The string Python is replaced with Data Science 
+2022-07-20 00:59:06,024 root INFO The string Hello	How	Are	You will be centered with space of 80

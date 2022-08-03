@@ -1,0 +1,13 @@
+2022-07-25 23:48:42,842 root INFO It will display the ip address of your local machine
+2022-07-25 23:48:42,879 root INFO Your Computer Name is:PrasathKamalakannan
+2022-07-25 23:48:42,879 root INFO Your Computer IP Address is:192.168.0.104
+2022-07-25 23:51:38,451 root INFO It will find the length of the stringprasath
+2022-07-25 23:52:11,851 root INFO It will find the length of the stringprasath
+2022-07-25 23:52:11,851 root ERROR can only concatenate str (not "int") to str
+2022-07-25 23:52:26,072 root INFO It will find the length of the stringprasath
+2022-07-25 23:52:26,072 root INFO The length of the string prasath is 7
+2022-07-25 23:55:41,021 root ERROR can only concatenate str (not "list") to str
+2022-07-25 23:55:54,018 root INFO It will generater all the index of the data structure [1, 2, 3, 4, 5]
+2022-07-25 23:55:54,021 root ERROR can only concatenate str (not "list") to str
+2022-07-25 23:56:06,288 root INFO It will generater all the index of the data structure [1, 2, 3, 4, 5]
+2022-07-25 23:56:06,288 root INFO the indexes are [1, 2, 3, 4, 5]
